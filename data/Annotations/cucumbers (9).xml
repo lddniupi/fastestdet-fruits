@@ -1,0 +1,38 @@
+<annotation>
+	<folder>allfruits</folder>
+	<filename>cucumbers (9).jpg</filename>
+	<path>F:\Yolo-FastestV2-main\my_data\allfruits\cucumbers (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>128</ymin>
+			<xmax>464</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>137</ymin>
+			<xmax>584</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>fruitjpg</folder>
+	<filename>pear (24).jpg</filename>
+	<path>C:\Users\ldd\Desktop\fruitjpg\pear (24).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>239</ymin>
+			<xmax>420</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>86</ymin>
+			<xmax>475</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

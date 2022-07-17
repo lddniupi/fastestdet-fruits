@@ -1,0 +1,38 @@
+<annotation>
+	<folder>allfruits</folder>
+	<filename>grape (20).jpg</filename>
+	<path>F:\Yolo-FastestV2-main\my_data\allfruits\grape (20).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>144</ymin>
+			<xmax>318</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>150</ymin>
+			<xmax>554</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

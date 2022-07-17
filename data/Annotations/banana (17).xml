@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allfruits</folder>
+	<filename>banana (17).jpg</filename>
+	<path>F:\Yolo-FastestV2-main\my_data\allfruits\banana (17).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>106</ymin>
+			<xmax>541</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,18 @@
+DATASET:
+  TRAIN: "./data/train.txt"
+  VAL: "./data/val.txt"
+  NAMES: "./data/fruits.names"
+MODEL:
+  NC: 5
+  INPUT_WIDTH: 512
+  INPUT_HEIGHT: 512
+TRAIN:
+  LR: 0.001
+  THRESH: 0.25
+  WARMUP: true
+  BATCH_SIZE: 24
+  END_EPOCH: 350
+  MILESTIONES:
+    - 150
+    - 250
+    - 300

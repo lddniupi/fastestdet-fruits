@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data2</folder>
+	<filename>mongo (149).jpg</filename>
+	<path>C:\Users\ldd\Desktop\data2\mongo (149).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mongo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>141</ymin>
+			<xmax>960</xmax>
+			<ymax>690</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mongo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>981</xmin>
+			<ymin>147</ymin>
+			<xmax>1467</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>
